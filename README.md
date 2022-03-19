@@ -2,4 +2,6 @@
 Pixabay Crawler using pixabay api
 
 ## pre-requirements
->> pip install pixabay
+'''zsh
+pip install pixabay
+'''
